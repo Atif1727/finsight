@@ -34,8 +34,6 @@ Finsight is a cutting-edge finance AI assistant tailored to meet the needs of po
 **Alpha Vantage**: The go-to API service for fetching the most recent financial data about companies.
 
 ## How to Use
-### Website Access: 
-Head over to [Finsight](https://finsight-report.streamlit.app/)
 
 ### **Local Setup**:
 
